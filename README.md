@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 Gemini Clone - A Generative AI App
 Project Overview
-This is a React-based application that emulates the functionality of Google Gemini, a powerful generative AI model. It leverages the Gemini API to process and generate text, code, and other creative content.
+This React-based application emulates the functionality of Google Gemini, a powerful generative AI model. It leverages the Gemini API to process and generate text, code, and other creative content.
 
 Key Features
 Text Generation: Generate text based on given prompts.
@@ -19,7 +19,7 @@ Language Translation: Translate text between different languages.
 Speech-to-Text: Convert spoken language into text using speech recognition.
 
 Obtain a Gemini API Key:
-Create a new API key from Gemini Api store and store it securely.
+Create a new API key from the Gemini Api store and store it securely.
 
 Replacing YOUR_GEMINI_API_KEY with your actual API key in gemini.js file in Config Folder :
 const apiKey = "YOUR_GEMINI_KEY";
